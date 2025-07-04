@@ -23,3 +23,7 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in Onlook to see the result.
+
+# このリポジトリについて
+
+- [app/page.tsx を見る](./app/page.tsx)
